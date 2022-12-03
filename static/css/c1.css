@@ -1,0 +1,17 @@
+h1{
+    background-color:green ;
+    color:red;
+    border: 2px solid black;
+    text-align: center;
+}
+body{
+    background-color: darkkhaki;
+}
+#a{
+    width: 500px;
+    height:600px;
+    margin-left:500px;
+}
+.form-group{
+    color:red;
+}
